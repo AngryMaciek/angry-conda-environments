@@ -1,0 +1,50 @@
+###############################################################################
+#
+#   AUTHOR: Maciej_Bak
+#   AFFILIATION: Swiss_Institute_of_Bioinformatics
+#   CONTACT: wsciekly.maciek@gmail.com
+#   CREATED: 13-03-2020
+#   LICENSE: GPL_v3.0
+#
+###############################################################################
+---
+
+name: Python_Jupyter
+
+channels:
+  - bioconda
+  - conda-forge
+  - krinsman
+
+dependencies:
+
+  # GENERAL:
+  - python=3.6.6
+  - pyyaml=3.12
+  - pybedtools=0.7.10
+  - jinja2=2.10
+  - ipython=7.1.1
+  - simplegeneric=0.8.1
+  - tqdm=4.28.1
+  - notebook=5.7.6
+  - jupyterlab=1.0.2
+  - jupyter_contrib_nbextensions=0.5.0
+  - jupyterlab-toc=v0.3.1
+
+  # PYTHON: DATA ANALYSIS, ML, STATISTICS:
+  - pandas=0.21.0
+  - numpy=1.15.4
+  - scipy=1.1.0
+  - statsmodels=0.9.0
+  - scikit-learn=0.20.0
+  - tensorflow=1.10.0
+
+  # PYTHON: VISUALIZATION:
+  - matplotlib=3.0.1
+  - matplotlib-venn=0.11.5
+  - seaborn=0.8.0
+  - plotly=3.4.2
+  - pydotplus=2.0.2
+  - bokeh=1.0.1
+
+...
