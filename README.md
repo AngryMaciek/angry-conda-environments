@@ -2,7 +2,7 @@
 *Maciej_Bak  
 Swiss_Institute_of_Bioinformatics*
 
-A small collection of YAML recipes for [conda](https://docs.conda.io/en/latest/) virtual environments for computational work.
+A small collection of YAML recipes for [conda](https://docs.conda.io/en/latest/) virtual environments which I use in everyday's computational work.
 
 ## Current recipes
 
