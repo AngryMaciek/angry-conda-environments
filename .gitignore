@@ -1,0 +1,4 @@
+**/env
+Python_Jupyter/.ipynb_checkpoints
+*.Rhistory
+*.bash_history
