@@ -16,7 +16,7 @@ channels:
   - conda-forge
 
 dependencies:
-  - snakemake=5.10.0
+  - snakemake=5.11.1
   - python=3.7.4
   - pandas=1.0.1
   - pyyaml=3.12
