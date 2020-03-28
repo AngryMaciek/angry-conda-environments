@@ -22,6 +22,12 @@ Linux:
   source .bashrc
   ```
 
+In order to build a conda virtual environment please execute script `create-virtual-environment.sh` of a given recipe directory.
+The environment will be constructed inside that location under the name `env`. Activate it with:
+  ```bash
+  conda activate {directory}/env
+  ```
+
 ## License
 
 GPL v3.0
