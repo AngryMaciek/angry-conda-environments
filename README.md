@@ -11,6 +11,7 @@ Currently the repository consist of the following recipes:
 * [Snakemake](https://snakemake.readthedocs.io/en/stable/)
 * [Nextflow](https://www.nextflow.io/) together with [nf-core](https://nf-co.re/)
 * [R](https://www.r-project.org/) and [RStudio](https://rstudio.com/)
+* various tools and libraries related to code formatting and linting (Python, R, bash, C++ and C, Perl)
 
 ## How-to: download and install Miniconda3
 
