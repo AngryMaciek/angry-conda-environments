@@ -1,0 +1,35 @@
+###############################################################################
+#
+#   Useful tools and libraries for code formatting
+#
+#   AUTHOR: Maciej_Bak
+#   AFFILIATION: Swiss_Institute_of_Bioinformatics
+#   CONTACT: wsciekly.maciek@gmail.com
+#   CREATED: 27-03-2020
+#   LICENSE: GPL_v3.0
+#
+###############################################################################
+---
+
+name: code_lint
+
+channels:
+  - conda-forge
+  - r
+  - dan_blanchard
+
+dependencies:
+  - black==19.10b0
+  - pylint==2.4.4
+  - r-styler=1.3.2
+  - r-lintr==1.0.3
+  - beautysh==6.0.1
+  - shellcheck==0.7.0
+  - pip
+  - pip:
+    - clang-format==9.0.0 # only for Linux!
+  - cpplint==1.4.4
+  - perl-dist-zilla-plugin-perltidy==0.15
+  - perl-perl-critic==1.121
+
+...
