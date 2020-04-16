@@ -32,5 +32,5 @@ The environment will be constructed inside that location under the name `env`. A
 
 ## License
 
-GPL v3.0
+MIT License
 
