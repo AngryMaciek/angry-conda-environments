@@ -30,6 +30,7 @@ dependencies:
   - r-statmod=1.4.30
   - r-maxlik=1.3_4
   - r-tidyverse=1.2.1
+  - r-tidymodels=0.1.0
   - r-numderiv=2016.8_1
   - r-tsibble=0.8.0
   - r-future=1.12.0
