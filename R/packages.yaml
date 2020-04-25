@@ -18,17 +18,17 @@ channels:
   - bioconda
 
 dependencies:
-  - perl-digest-md5=2.55 #!
-  - openssl=1.0 #!
+  - perl-digest-md5=2.55
+  - openssl=1.1.1g
   - r-base=3.6.1
   - r-essentials=3.6.0
-  - r-optparse=1.6.4
-  - r-maxlik=1.3_6
-  - r-statmod=1.4.32
+  - r-optparse=1.6.6
+  - r-maxlik=1.3_8
+  - r-statmod=1.4.34
   - r-tidymodels=0.1.0
-  - r-gplots=3.0.1.1
-  - r-tsibble=0.8.4
-  - r-future=1.14.0
+  - r-gplots=3.0.3
+  - r-tsibble=0.8.6
+  - r-future=1.17.0
   - r-furrr=0.1.0
   - r-cowplot=1.0.0
   - r-projecttemplate=0.9.0
