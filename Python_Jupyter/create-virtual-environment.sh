@@ -11,4 +11,4 @@
 ###############################################################################
 
 CWD="$(cd "$(dirname "${BASH_SOURCE[0]}")" >/dev/null 2>&1 && pwd)"
-conda env create --file $CWD/packages.yaml -p $CWD/env
+conda env create --file $CWD/packages.yaml -p $CWD/env --quiet
