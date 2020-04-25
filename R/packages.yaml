@@ -25,16 +25,16 @@ dependencies:
   - r-optparse=1.6.6
   - r-maxlik=1.3_8
   - r-statmod=1.4.34
-  - r-tidymodels=0.1.0
   - r-gplots=3.0.3
   - r-tsibble=0.8.6
   - r-future=1.17.0
   - r-furrr=0.1.0
   - r-cowplot=1.0.0
   - r-projecttemplate=0.9.0
-  - r-roxygen2=7.1.0
   - r-devtools=2.3.0
+  - r-roxygen2=7.1.0
   - r-usethis=1.6.0
+  - r-tidymodels=0.1.0
   - rstudio=1.1.456
 
 ...
