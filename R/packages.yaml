@@ -12,10 +12,9 @@
 name: R
 
 channels:
-  - conda-forge/label/gcc7
-  - bioconda/label/gcc7
   - conda-forge
   - bioconda
+  - r
 
 dependencies:
   - perl-digest-md5=2.55
