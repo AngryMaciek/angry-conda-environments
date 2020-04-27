@@ -23,6 +23,13 @@ Linux:
   source .bashrc
   ```
 
+macOS:
+  ```bash
+  wget https://repo.continuum.io/miniconda/Miniconda3-latest-MacOSX-x86_64.sh
+  bash Miniconda3-latest-MacOSX-x86_64.sh
+  source .bashrc
+  ```
+
 ## How-to: build and activate environments
 
 In order to build a conda virtual environment please execute script `create-virtual-environment.sh` of a given recipe directory.
