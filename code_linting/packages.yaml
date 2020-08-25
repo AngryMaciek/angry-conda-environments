@@ -17,8 +17,10 @@ channels:
   - conda-forge
   - r
   - dan_blanchard
+  - bioconda
 
 dependencies:
+  - snakefmt==0.1.0
   - black==19.10b0
   - pylint==2.4.4
   - r-styler=1.3.2

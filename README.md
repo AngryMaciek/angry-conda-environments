@@ -1,4 +1,4 @@
-# Conda Virtual Environments Recipes
+# Angry Conda Virtual Environments Recipes
 *Maciej_Bak  
 Swiss_Institute_of_Bioinformatics*
 
