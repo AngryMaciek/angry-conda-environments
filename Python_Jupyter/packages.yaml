@@ -21,6 +21,7 @@ dependencies:
   - bash=5.0.011
   - python=3.6.10
   - ipython=7.13.0
+  - rpy2=3.3.2
   - pyyaml=5.3.1
   - jinja2=2.11.2
   - simplegeneric=0.8.1
